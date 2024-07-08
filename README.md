@@ -1,7 +1,7 @@
 # Coulombic_dyn_formaltetra
 
 In this project, 100 initial conditions of formaldehyde tetra-cation generated with Harmonic-Wigner distribution were simulated using Coulombic forces. 
-The code "simulation.py" here simulates one single trajectory, given the initial atomic charges, initial geometry file (geom) and velocity file (veloc).
+The code "simulation.py" simulates one single trajectory, given the initial atomic charges, initial geometry file (geom) and velocity file (veloc).
 
 The code generates, 
 a) output.txt : output file containing geometry, velocity, and energies at current time.
